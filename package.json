@@ -12,6 +12,7 @@
   "author": "Kenson Johnson",
   "license": "MIT",
   "dependencies": {
+    "bootstrap": "^5.3.0-alpha1",
     "dotenv": "^16.0.3",
     "ejs": "^3.1.9",
     "express": "^4.18.2",
